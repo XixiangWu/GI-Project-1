@@ -1,0 +1,36 @@
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/UnityEngine.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/UnityEditor.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/wuxixiang/Documents/University/COMP30019/Project 1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/wuxixiang/Desktop/GI Project 1/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/wuxixiang/Desktop/GI Project 1/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/UnityEngine.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/UnityEditor.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/wuxixiang/Desktop/GI Project 1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
